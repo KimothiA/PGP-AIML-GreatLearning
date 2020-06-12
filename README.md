@@ -1,6 +1,9 @@
 # PGP-AIML-GreatLearning
 Projects undertaken as part of the PGP in Artificial Intelligence and Machine Learning 2019-20. These are elementary projects and should be viewed as driving learning value.
 
+The folder Code contains all relevant codes
+The folder Data contains all input datasets
+
 The list of projects completed can be found here: https://eportfolio.greatlearning.in/abhinav-kimothi
 
 01. Applied Statistics
